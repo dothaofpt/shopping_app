@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza Pepperoni",
+    "price": 8.99,
+    "imageUrl": "https://cdn.pixabay.com/photo/2022/02/08/10/39/pizza-7000273_1280.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Burger Classic",
+    "price": 5.99,
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_1280.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sushi Combo",
+    "price": 12.49,
+    "imageUrl": "https://cdn.pixabay.com/photo/2017/05/07/08/56/sushi-2297114_1280.jpg"
+  }
+]
